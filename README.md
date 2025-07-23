@@ -50,7 +50,7 @@ Kullandığım başlıca teknolojiler ve uzmanlık alanlarım:
 Projelerim hakkında konuşmak, iş birliği yapmak istersen, bana aşağıdaki yollardan ulaşabilirsin:
 
 * **E-posta:** [remrevaysal@gmail.com]
-* **LinkedIn:** [in/resul-emre-vaysal-5a6409295]
+* **LinkedIn:** [Resul Emre Vaysal](https://www.linkedin.com/in/resul-emre-vaysal-5a6409295)
 
 
 ---
