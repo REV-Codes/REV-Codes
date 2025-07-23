@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, Ben Resul Emre 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer+ve+Designer;&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer+and+Designer;&center=true&width=500&height=45">
 </p>
 
 ---
